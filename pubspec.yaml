@@ -1,0 +1,19 @@
+name: faster
+description: "This package is used for faster development using multiple extensions and custom methods. For accessing just type dot (.) with any object and get premade features."
+version: 0.0.1
+homepage: https://github.com/aarifhusaincom/faster
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
